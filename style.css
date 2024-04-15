@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+
+nav div {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(78, 78, 78);
+    margin: 0;
+    padding: 10px;
+    justify-content: space-between; 
+}
+
+header h1 {
+    color: greenyellow;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(78, 78, 78);
+  margin: 0;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.addTask {
+    background-color: rgb(0, 229, 250);
+    border-radius: 15px;
+    
+}
+
+button {
+  background-color: darkblue;
+  color: white;
+}
